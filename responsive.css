@@ -1,0 +1,22 @@
+/* sm */
+@media (min-width: 576px) {
+}
+
+/* md */
+@media (min-width: 768px) {
+}
+
+/* lg */
+@media (min-width: 992px) {
+  .ml-300 {
+    margin-left: 300px;
+  }
+}
+
+/* xlg */
+@media (min-width: 1200px) {
+}
+
+/* xxlg */
+@media (min-width: 1400px) {
+}
