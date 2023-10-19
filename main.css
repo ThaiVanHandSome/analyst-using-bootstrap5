@@ -56,3 +56,17 @@ body {
   font-size: 18px;
   font-weight: 700;
 }
+
+.btn-more-countries {
+  background-color: #616161;
+  color: var(--bs-white);
+  padding: 8px 16px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+}
+
+.btn-more-countries:hover {
+  background-color: #ccc;
+  color: var(--bs-dark);
+}
